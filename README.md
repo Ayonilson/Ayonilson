@@ -21,6 +21,7 @@ I'm an aspiring **Cybersecurity Professional** from **Lagos, Nigeria**, with a s
   - Wireshark
   - Windows
   - Wazuh
+  - Kali Linux
 - **Learning Approach:** Self-study, online courses, hands-on labs, and continuous improvement.
 
 ## 🎯 My Goals
@@ -33,8 +34,8 @@ When I'm not studying networking or cybersecurity, I enjoy **watching and playin
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/)
-- **Email:** Add your professional email address here.
+- **LinkedIn:** https://www.linkedin.com/in/adeayo-aladebo-17552744/
+- **Email:** reycoba2@yahoo.com
 
 I'm always happy to connect with fellow learners, networking enthusiasts, and cybersecurity professionals. Let's learn, build, and grow together!
 
