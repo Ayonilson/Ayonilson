@@ -1,4 +1,4 @@
-# Hi, I'm Adeayo Aladeob! 👋
+# Hi, I'm Adeayo Aladebo! 👋
 
 Welcome to my GitHub profile!
 
